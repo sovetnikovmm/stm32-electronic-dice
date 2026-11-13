@@ -1,0 +1,16 @@
+Name,Description,Designator,Quantity,Manufacter,Part Number,Package
+
+"10uF","Polarized capacitor","C1, C7, C8","3","JB Capacitors","JYM1H104KBX020000B","ECAP"
+"0,1uF","Non-polarized capacitor","C2, C3, C4, C6","4","JB Capacitors","JRK1V100M02000500070000B","MLCC"
+"47uF","Polarized capacitor","C5","1","JB Capacitors","JRK1C470M02000500070000B","ECAP"
+"AMS1117","Linear voltage regulator, AMS1117 3,3V","DA1","1","Advanced Monolithic Systems Inc","AMS1117-3.3","SOT-223"
+"STM32F103C8T6","STM32F103C8T6 microcontroller, LQFP-48 package","DD1","1","STMicroelectronics","STM32F103C8T6","LQFP48"
+"HL_LED","Light-emitting diode (LED)","HL1, HL2, HL3, HL4, HL5, HL6, HL7, HL8, HL9, HL10, HL11, HL12, HL13, HL14","14","G-nor Electronics","GNL-3012HD","THT"
+"10k O","Fixed resistor","R1, R2, R3, R4, R5","5","Yageo","CF-1/4W-10KJ","CF-25"
+"100 O","Fixed resistor","R6, R7","2","Yageo","CF-1/4W-100RJ","CF-25"
+"220 O","Fixed resistor","R8","1","Yageo","CF-1/4W-220RJ","CF-25"
+"SW_Switch","Switch","SW1, SW2","2","KLS Electronics Co Ltd","KLS7-TS3601-5.0-180","THT"
+"1N4148","Diode","VD1, VD2","2","YJ","1N4148","DO-53"
+"2N7000","N-channel MOSFET","VT1, VT2, VT3, VT4, VT5","5","JCET","2N7000","TO-92"
+"2Pin 5.0mm","2-pin connector (socket)","XS1","1","KLS Electronics Co Ltd","L-KLS2-300-5.00-02P-2S","THT"
+"4Pin 5.0mm","4-pin connector (socket)","XS2","1"," Ningbo Xinlaiya","XY300VA-5.0-4P-12","THT"

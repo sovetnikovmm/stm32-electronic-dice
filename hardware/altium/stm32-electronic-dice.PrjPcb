@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=stm32-electronic-dice_E1_block-diagram.SchDoc
+DocumentPath=..\stm32-electronic-dice_E1_block-diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XXNZKIMQ
 
 [Document2]
-DocumentPath=stm32-electronic-dice.OutJob
+DocumentPath=..\stm32-electronic-dice.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=libs\stm32-electronic-dice.PcbLib
+DocumentPath=\\Mac\Home\Downloads\stm32-electronic-dice.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RAKUXZVG
 
 [Document4]
-DocumentPath=libs\stm32-electronic-dice.SchLib
+DocumentPath=\\Mac\Home\Downloads\stm32-electronic-dice.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FSQUNVCZ
 
 [Document5]
-DocumentPath=stm32-electronic-dice_E2_functional-diagram.SchDoc
+DocumentPath=..\stm32-electronic-dice_E2_functional-diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BAUAABME
 
 [Document6]
-DocumentPath=stm32-electronic-dice_E3_schematic.SchDoc
+DocumentPath=..\stm32-electronic-dice_E3_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KPKYCDJF
 
 [Document7]
-DocumentPath=stm32-electronic-dice.PcbDoc
+DocumentPath=..\stm32-electronic-dice.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MEMMPMRO
 
 [Document8]
-DocumentPath=stm32-electronic-dice_PP_board-drawing.PCBDwf
+DocumentPath=..\stm32-electronic-dice_PP_board-drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RUSXCGKX
 
 [Document9]
-DocumentPath=stm32-electronic-dice_bom.BomDoc
+DocumentPath=\\Mac\Home\Downloads\github-projects-skeleton-v2\stm32-electronic-dice\hardware\altium\stm32-electronic-dice_bom.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=..\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,7 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=..\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,59 +236,59 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice-Plated.TXT
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.DRR
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.EXTREP
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBL
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBO
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBP
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBS
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GM
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GM
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTL
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTO
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTP
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTS
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.LDP
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for stm32-electronic-dice\stm32-electronic-dice.REP
+DocumentPath=..\Project Outputs for stm32-electronic-dice\stm32-electronic-dice.REP
 DItemRevisionGUID=
 
 [Configuration1]
